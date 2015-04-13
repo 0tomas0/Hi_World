@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ahoj borec!</string>
+    <string name="hello_world">Ahoj borec!</string>
+    <string name="action_settings">Nastavenia</string>
+</resources>
